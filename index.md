@@ -1,10 +1,23 @@
 ## Ricardo RIBEIRO
+
 Assistant Professor
+
 [Católica Porto Business School](https://www.catolicabs.porto.ucp.pt/catolicabs-porto)
+
 Rua de Diogo Botelho, 1327
+
 4169-005 Porto
+
 Portugal
 
+Research Interests:
+
+Industrial Organization
+
+Applied Microeconomics
+
+Applied Econometrics
+ 
 You can use the [editor on GitHub](https://github.com/ricardomribeiro/ricardomribeiro.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
