@@ -21,4 +21,4 @@ Applied Econometrics<br/>
 
 [“Unilateral Effects Screens for Partial Horizontal Acquisitions: The Generalized HHI and GUPPI”](https://doi.org/10.1016/j.ijindorg.2018.03.005) with Duarte Brito António Osório and Helder Vasconcelos, International Journal of Industrial Organization, 2018, 59, 127-189.
 
-“Measuring Unilateral Effects in Partial Horizontal Acquisitions Brito, D., R. Ribeiro and H. Vasconcelos (2014). . International Journal of Industrial Organization, 33, 22-36. https://doi.org/10.1016/j.ijindorg.2013.12.003. The International Journal of Industrial Organization Best Paper Award 2015.
+[“Measuring Unilateral Effects in Partial Horizontal Acquisitions"](https://doi.org/10.1016/j.ijindorg.2013.12.003) with Duarte Brito and Helder Vasconcelos, International Journal of Industrial Organization, 2014, 33, 22-36. The International Journal of Industrial Organization Best Paper Award 2015.
