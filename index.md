@@ -1,4 +1,4 @@
-## Ricardo RIBEIRO<br/>
+# Ricardo RIBEIRO<br/>
 Assistant Professor<br/>
 [Católica Porto Business School](https://www.catolicabs.porto.ucp.pt/catolicabs-porto)<br/>
 Rua de Diogo Botelho, 1327<br/>
