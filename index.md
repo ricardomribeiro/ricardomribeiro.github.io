@@ -15,7 +15,7 @@ Applied Econometrics<br/>
 # Publications<br/>
 ["Overlapping Ownership, Endogenous Quality, and Welfare"](https://doi.org/10.1016/j.econlet.2020.109074) with Duarte Brito and Helder Vasconcelos, *Economics Letters*, 2020, 190, 109074.
 
-["How to Serve Online Consumers in Rural Markets: Evidence-based Recommendations"](https://doi.org/10.1016/j.bushor.2020.01.007) with Carolima Horta, Rui Sousa and Eliot Rabinovich, *Business Horizons*, 2020, 63, 3, 351-362.
+["How to Serve Online Consumers in Rural Markets: Evidence-based Recommendations"](https://doi.org/10.1016/j.bushor.2020.01.007) with Carolina Horta, Rui Sousa and Elliot Rabinovich, *Business Horizons*, 2020, 63, 3, 351-362.
 
 ["Can Partial Horizontal Ownership Lessen Competition More Than a Monopoly?"](https://doi.org/10.1016/j.econlet.2018.12.039) with Duarte Brito and Helder Vasconcelos, *Economics Letters*, 2019, 176, 90-95. 
 
