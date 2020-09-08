@@ -5,12 +5,12 @@ Rua de Diogo Botelho, 1327<br/>
 4169-005 Porto<br/>
 Portugal<br/>
 
-## Research Interests<br/>
+# Research Interests<br/>
 Industrial Organization<br/>
 Applied Microeconomics<br/>
 Applied Econometrics<br/>
 
-## Publications<br/>
+# Publications<br/>
 ["Overlapping Ownership, Endogenous Quality, and Welfare"](https://doi.org/10.1016/j.econlet.2020.109074) with Duarte Brito and Helder Vasconcelos, *Economics Letters*, 2020, 190, 109074.
 
 ["How to Serve Online Consumers in Rural Markets: Evidence-based Recommendations"](https://doi.org/10.1016/j.bushor.2020.01.007) with Carolima Horta, Rui Sousa and Eliot Rabinovich, *Business Horizons*, 2020, 63, 3, 351-362.
