@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Ricardo RIBEIRO
+Assistant Professor
+[Católica Porto Business School](https://www.catolicabs.porto.ucp.pt/catolicabs-porto)
+Rua de Diogo Botelho, 1327
+4169-005 Porto
+Portugal
 
 You can use the [editor on GitHub](https://github.com/ricardomribeiro/ricardomribeiro.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
