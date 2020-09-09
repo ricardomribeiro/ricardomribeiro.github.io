@@ -1,4 +1,3 @@
-# Ricardo RIBEIRO<br/>
 Assistant Professor<br/>
 [Católica Porto Business School](https://www.catolicabs.porto.ucp.pt/catolicabs-porto)<br/>
 Rua de Diogo Botelho, 1327<br/>
@@ -25,7 +24,7 @@ Applied Econometrics<br/>
 
 [“Measuring Unilateral Effects in Partial Horizontal Acquisitions"](https://doi.org/10.1016/j.ijindorg.2013.12.003) with Duarte Brito and Helder Vasconcelos, *International Journal of Industrial Organization*, 2014, 33, 22-36. The International Journal of Industrial Organization Best Paper Award 2015.
 
-# Working Papers>br/>
+# Working Papers<br/>
 ["Endogenous Product Design and Quality When Consumers Have Heterogeneous Limited Attention"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2860456) with Mariana Cunha and António Osório.
 
 ["Modeling Horizontal Shareholding With Ownership Dispersion"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3264113) with Duarte Brito, Einer Elhauge and Helder Vasconcelos.
