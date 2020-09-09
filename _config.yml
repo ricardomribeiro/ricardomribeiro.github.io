@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: AAAA
+description: BBB
+logo: [Location of the logo]
+show_downloads: "false"
