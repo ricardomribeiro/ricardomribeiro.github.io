@@ -30,6 +30,12 @@ Applied Econometrics<br/>
 [“Measuring Unilateral Effects in Partial Horizontal Acquisitions"](https://doi.org/10.1016/j.ijindorg.2013.12.003) with Duarte Brito and Helder Vasconcelos, *International Journal of Industrial Organization*, 2014, 33, 22-36. The International Journal of Industrial Organization Best Paper Award 2015.
 
 # Working Papers<br/>
+["A Simple Globally Consistent Continuous Demand Model for Market Level Data"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1690163) with Peter Davis.
+
+["Consumer Demand for Variety: Intertemporal Effects of Consumption, Product Switching and Pricing Policies"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1690144).
+
 ["Endogenous Product Design and Quality When Consumers Have Heterogeneous Limited Attention"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2860456) with Mariana Cunha and António Osório.
+
+["Market Dominance and Barriers to Competition in Financial Trading Venues"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1287443).
 
 ["Modeling Horizontal Shareholding With Ownership Dispersion"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3264113) with Duarte Brito, Einer Elhauge and Helder Vasconcelos.
