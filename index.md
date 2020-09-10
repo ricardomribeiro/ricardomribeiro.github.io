@@ -9,7 +9,7 @@ Telephone: +351 226 196 200<br/>
 Email: rribeiro[at]porto.ucp.pt<br/>
 
 # Education<br/>
-PhD in Economics, London School of Economics and Political Science, UK
+PhD in Economics, The London School of Economics and Political Science, UK
 
 # Research Interests<br/>
 Industrial Organization<br/>
