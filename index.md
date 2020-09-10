@@ -39,5 +39,3 @@ Applied Econometrics<br/>
 ["Market Dominance and Barriers to Competition in Financial Trading Venues"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1287443).
 
 ["Modeling Horizontal Shareholding With Ownership Dispersion"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3264113) with Duarte Brito, Einer Elhauge and Helder Vasconcelos.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fricardomribeiro.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
