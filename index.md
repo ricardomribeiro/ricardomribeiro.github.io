@@ -1,5 +1,4 @@
-
-
+<br/>
 Assistant Professor<br/>
 [Católica Porto Business School](https://www.catolicabs.porto.ucp.pt/catolicabs-porto)<br/>
 Rua de Diogo Botelho, 1327<br/>
@@ -7,6 +6,9 @@ Rua de Diogo Botelho, 1327<br/>
 Portugal<br/>
 Telephone: +351 226 196 200<br/>
 Email: rribeiro[at]porto.ucp.pt<br/>
+
+# Education<br/>
+PhD in Economics, London School of Economics and Political Science, UK
 
 # Research Interests<br/>
 Industrial Organization<br/>
