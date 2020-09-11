@@ -15,7 +15,7 @@ Applied Microeconomics<br/>
 Applied Econometrics<br/>
 
 # Publications<br/>
-["Overlapping Ownership, Endogenous Quality, and Welfare"](https://doi.org/10.1016/j.econlet.2020.109074) with [<ins>*Duarte Brito*</ins>](http://www.cefage.uevora.pt/en/pessoas/membros_integrados/doutorados/brito_duarte_miguel_machado_carneiro_de) and [<ins>*Helder Vasconcelos*</ins>](https://www.fep.up.pt/docentes/hvasconcelos/), *Economics Letters*, 2020, 190, 109074.
+["Overlapping Ownership, Endogenous Quality, and Welfare"](https://doi.org/10.1016/j.econlet.2020.109074) with [<span style="color:green;"><ins>*Duarte Brito*</ins>](http://www.cefage.uevora.pt/en/pessoas/membros_integrados/doutorados/brito_duarte_miguel_machado_carneiro_de) and [<ins>*Helder Vasconcelos*</ins>](https://www.fep.up.pt/docentes/hvasconcelos/), *Economics Letters*, 2020, 190, 109074.
 
 ["How to Serve Online Consumers in Rural Markets: Evidence-based Recommendations"](https://doi.org/10.1016/j.bushor.2020.01.007) with [<ins>*Carolina Horta*</ins>](https://www.catolicabs.porto.ucp.pt/en/who-is/carolina-horta/1865), [<ins>*Rui Sousa*</ins>](https://rsousaedu.wordpress.com/) and [<ins>*Elliot Rabinovich*</ins>](https://wpcarey.asu.edu/people/profile/330867), *Business Horizons*, 2020, 63, 3, 351-362.
 
