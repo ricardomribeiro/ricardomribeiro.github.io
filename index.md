@@ -15,7 +15,7 @@ Applied Microeconomics<br/>
 Applied Econometrics<br/>
 
 # Publications<br/>
-<a href="https://doi.org/10.1016/j.econlet.2020.109074" target="_blank">"Overlapping Ownership, Endogenous Quality, and Welfare"</a> with <a class="muted-link" href="http://www.cefage.uevora.pt/en/pessoas/membros_integrados/doutorados/brito_duarte_miguel_machado_carneiro_de" target="_blank"> Duarte Brito</a><br>
+<a href="https://doi.org/10.1016/j.econlet.2020.109074" target="_blank">"Overlapping Ownership, Endogenous Quality, and Welfare"</a> with <a class="text-muted" href="http://www.cefage.uevora.pt/en/pessoas/membros_integrados/doutorados/brito_duarte_miguel_machado_carneiro_de" target="_blank"> Duarte Brito</a><br>
 
 ["Overlapping Ownership, Endogenous Quality, and Welfare"](https://doi.org/10.1016/j.econlet.2020.109074) with [*Duarte Brito*](http://www.cefage.uevora.pt/en/pessoas/membros_integrados/doutorados/brito_duarte_miguel_machado_carneiro_de) and [*Helder Vasconcelos*](https://www.fep.up.pt/docentes/hvasconcelos/), *Economics Letters*, 2020, 190, 109074.
 
