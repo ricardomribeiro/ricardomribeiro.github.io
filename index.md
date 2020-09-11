@@ -15,16 +15,11 @@ Applied Microeconomics<br/>
 Applied Econometrics<br/>
 
 # Publications<br/>
-
-<div>
-  <a href="https://doi.org/10.1016/j.econlet.2020.109074" target="_blank">"Overlapping Ownership, Endogenous Quality, and Welfare"</a> with <a href="http://www.cefage.uevora.pt/en/pessoas/membros_integrados/doutorados/brito_duarte_miguel_machado_carneiro_de" target="_blank" style="color:red"> Duarte Brito</a><br>
-<div>
-
 ["Overlapping Ownership, Endogenous Quality, and Welfare"](https://doi.org/10.1016/j.econlet.2020.109074) with [*Duarte Brito*](http://www.cefage.uevora.pt/en/pessoas/membros_integrados/doutorados/brito_duarte_miguel_machado_carneiro_de) and [*Helder Vasconcelos*](https://www.fep.up.pt/docentes/hvasconcelos/), *Economics Letters*, 2020, 190, 109074.
 
 ["How to Serve Online Consumers in Rural Markets: Evidence-based Recommendations"](https://doi.org/10.1016/j.bushor.2020.01.007) with [*Carolina Horta*](https://www.catolicabs.porto.ucp.pt/en/who-is/carolina-horta/1865), [*Rui Sousa*](https://rsousaedu.wordpress.com/) and [*Elliot Rabinovich*](https://wpcarey.asu.edu/people/profile/330867), *Business Horizons*, 2020, 63, 3, 351-362.
 
-["Can Partial Horizontal Ownership Lessen Competition More Than a Monopoly?"](https://doi.org/10.1016/j.econlet.2018.12.039) with [<ins>Duarte Brito</ins>](http://www.cefage.uevora.pt/en/pessoas/membros_integrados/doutorados/brito_duarte_miguel_machado_carneiro_de) and [<ins>Helder Vasconcelos</ins>](https://www.fep.up.pt/docentes/hvasconcelos/), *Economics Letters*, 2019, 176, 90-95. 
+["Can Partial Horizontal Ownership Lessen Competition More Than a Monopoly?"](https://doi.org/10.1016/j.econlet.2018.12.039) with [*Duarte Brito*](http://www.cefage.uevora.pt/en/pessoas/membros_integrados/doutorados/brito_duarte_miguel_machado_carneiro_de) and [*Helder Vasconcelos*](https://www.fep.up.pt/docentes/hvasconcelos/), *Economics Letters*, 2019, 176, 90-95. 
 
 ["Quantifying the Coordinated Effects of Partial Horizontal Acquisitions"](https://doi.org/10.1016/j.euroecorev.2018.07.009) with [*Duarte Brito*](http://www.cefage.uevora.pt/en/pessoas/membros_integrados/doutorados/brito_duarte_miguel_machado_carneiro_de) and [*Helder Vasconcelos*](https://www.fep.up.pt/docentes/hvasconcelos/), *European Economic Review*, 2018, 110, 108-149. 
 
