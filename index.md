@@ -11,6 +11,7 @@ PhD in Economics, London School of Economics and Political Science, UK
 
 # Research Interests<br/>
 Industrial Organization<br/>
+Competition Policy<br/>
 Applied Microeconomics<br/>
 Applied Econometrics<br/>
 
