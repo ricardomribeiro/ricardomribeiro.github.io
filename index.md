@@ -37,7 +37,7 @@ Applied Econometrics<br/>
 
 ["Market Dominance and Barriers to Competition in Financial Trading Venues"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1287443).
 
-["Modeling Horizontal Shareholding With Ownership Dispersion"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3264113) with [<span style="color: #808080">Duarte Brito</span>](http://www.cefage.uevora.pt/en/pessoas/membros_integrados/doutorados/brito_duarte_miguel_machado_carneiro_de), [<span style="color: #808080">Einer Elhauge</span>](https://hls.harvard.edu/faculty/directory/10234/Elhauge) and [<span style="color: #808080">Helder Vasconcelos</span>](https://www.fep.up.pt/docentes/hvasconcelos/).
+["Modelling the Objective Function of Managers in the Presence of Overlapping Shareholding"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3264113) with [<span style="color: #808080">Duarte Brito</span>](http://www.cefage.uevora.pt/en/pessoas/membros_integrados/doutorados/brito_duarte_miguel_machado_carneiro_de), [<span style="color: #808080">Einer Elhauge</span>](https://hls.harvard.edu/faculty/directory/10234/Elhauge) and [<span style="color: #808080">Helder Vasconcelos</span>](https://www.fep.up.pt/docentes/hvasconcelos/).
 
 ["The Pricing of Bank Bonds, Sovereign Credit Risk and ECB's Asset Purchase Programmes"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691310) with  [<span style="color: #808080">Ricardo Branco</span>](https://www.linkedin.com/in/ricardo-branco-14819394) and [<span style="color: #808080">João Pinto</span>](https://www.catolicabs.porto.ucp.pt/en/who-is/joao-filipe-monteiro-pinto/1750).
 
