@@ -4,7 +4,7 @@ Rua de Diogo Botelho, 1327<br/>
 4169-005 Porto<br/>
 Portugal<br/>
 Telephone: +351 226 196 200<br/>
-Email: rribeiro[at]porto.ucp.pt<br/>
+Email: rribeiro[at]ucp.pt<br/>
 
 # Education<br/>
 PhD in Economics, London School of Economics and Political Science, UK
