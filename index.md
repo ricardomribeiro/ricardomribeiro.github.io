@@ -35,7 +35,7 @@ Applied Econometrics<br/>
 
 ["Endogenous Product Design and Quality When Consumers Have Heterogeneous Limited Attention"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2860456) with [<span style="color: #808080">Mariana Cunha</span>](https://www.catolicabs.porto.ucp.pt/en/who-is/mariana-alves-da-cunha/1638) and [<span style="color: #808080">António Osório</span>](http://gandalf.fee.urv.cat/professors/AntonioOsorio/index.html).
 
-["Estimating Oligopoly with Shareholder Voting Models"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3988265) with [<span style="color: #808080">José Azar</span>](https://sites.google.com/site/joseazar/). CRESSE & CPI Best Paper Award 2022. Revise & Resumit: Review of Economic Studies. 
+["Estimating Oligopoly with Shareholder Voting Models"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3988265) with [<span style="color: #808080">José Azar</span>](https://sites.google.com/site/joseazar/). [<span style="color: #808080">CRESSE & CPI Best Paper Award 2022</span>](https://www.cresse.info/cresse-cpi-awards/). Revise & Resumit: Review of Economic Studies. 
 
 ["Market Dominance and Barriers to Competition in Financial Trading Venues"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1287443).
 
