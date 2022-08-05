@@ -29,7 +29,7 @@ Applied Econometrics<br/>
 ["Measuring Unilateral Effects in Partial Horizontal Acquisitions"](https://doi.org/10.1016/j.ijindorg.2013.12.003) with [<span style="color: #808080">Duarte Brito</span>](https://www.dcsa.fct.unl.pt/pessoas/professor-associado-com-agregacao/duarte-brito) and [<span style="color: #808080">Helder Vasconcelos</span>](https://www.fep.up.pt/docentes/hvasconcelos/), *International Journal of Industrial Organization*, 2014, 33, 22-36. [<span style="color: #808080">The International Journal of Industrial Organization Best Paper Award 2015</span>](https://www.journals.elsevier.com/international-journal-of-industrial-organization/awards/best-paper-award-2015/).
 
 # Working Papers<br/>
-["A Simple Globally Consistent Continuous Demand Model for Market Level Data"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1690163) with [<span style="color: #808080">Peter Davis</span>](https://www.cornerstone.com/Staff/Peter-Davis).
+["A Simple Globally Consistent Continuous Demand Model for Market Level Data"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1690163) with [<span style="color: #808080">Peter Davis</span>](https://www.brattle.com/experts/peter-davis/).
 
 ["Consumer Demand for Variety: Intertemporal Effects of Consumption, Product Switching and Pricing Policies"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1690144).
 
