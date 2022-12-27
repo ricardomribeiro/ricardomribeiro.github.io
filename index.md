@@ -1,5 +1,5 @@
 Assistant Professor<br/>
-[Católica Porto Business School](https://www.catolicabs.porto.ucp.pt/catolicabs-porto)<br/>
+[Católica Porto Business School](https://catolicabs.porto.ucp.pt/)<br/>
 Rua de Diogo Botelho, 1327<br/>
 4169-005 Porto<br/>
 Portugal<br/>
@@ -16,7 +16,7 @@ Applied Microeconomics<br/>
 Applied Econometrics<br/>
 
 # Publications<br/>
-["Modelling the Objective Function of Managers in the Presence of Overlapping Shareholding"](https://doi.org/10.1016/j.ijindorg.2022.102905) with [<span style="color: #808080">Duarte Brito</span>](http://www.cefage.uevora.pt/en/pessoas/membros_integrados/doutorados/brito_duarte_miguel_machado_carneiro_de), [<span style="color: #808080">Einer Elhauge</span>](https://hls.harvard.edu/faculty/directory/10234/Elhauge) and [<span style="color: #808080">Helder Vasconcelos</span>](https://www.fep.up.pt/docentes/hvasconcelos/), *International Journal of Industrial Organization*, Forthcoming.  
+["Modelling the Objective Function of Managers in the Presence of Overlapping Shareholding"](https://doi.org/10.1016/j.ijindorg.2022.102905) with [<span style="color: #808080">Duarte Brito</span>](https://www.dcsa.fct.unl.pt/pessoas/professor-associado-com-agregacao/duarte-brito), [<span style="color: #808080">Einer Elhauge</span>](https://hls.harvard.edu/faculty/directory/10234/Elhauge) and [<span style="color: #808080">Helder Vasconcelos</span>](https://www.fep.up.pt/docentes/hvasconcelos/), *International Journal of Industrial Organization*, Forthcoming.  
 
 ["Overlapping Ownership, Endogenous Quality, and Welfare"](https://doi.org/10.1016/j.econlet.2020.109074) with [<span style="color: #808080">Duarte Brito</span>](https://www.dcsa.fct.unl.pt/pessoas/professor-associado-com-agregacao/duarte-brito) and [<span style="color: #808080">Helder Vasconcelos</span>](https://www.fep.up.pt/docentes/hvasconcelos/), *Economics Letters*, 2020, 190, 109074.
 
@@ -37,13 +37,13 @@ Applied Econometrics<br/>
 
 ["Common-Ownership vs. Cross-Ownership: Evidence from the Automobile Industry"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4313096) with [<span style="color: #808080">Cristian Huse</span>](https://cristianhuse.webs.com/) and [<span style="color: #808080">Frank Verboven</span>](https://sites.google.com/site/frankverbo/research).
 
-["Endogenous Product Design and Quality When Consumers Have Heterogeneous Limited Attention"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2860456) with [<span style="color: #808080">Mariana Cunha</span>](https://www.catolicabs.porto.ucp.pt/en/who-is/mariana-alves-da-cunha/1638) and [<span style="color: #808080">António Osório</span>](http://gandalf.fee.urv.cat/professors/AntonioOsorio/index.html).
+["Endogenous Product Design and Quality When Consumers Have Heterogeneous Limited Attention"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2860456) with [<span style="color: #808080">Mariana Cunha</span>](https://catolicabs.porto.ucp.pt/person/mariana-alves-da-cunha) and [<span style="color: #808080">António Osório</span>](http://gandalf.fee.urv.cat/professors/AntonioOsorio/index.html).
 
 ["Estimating Oligopoly with Shareholder Voting Models"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3988265) with [<span style="color: #808080">José Azar</span>](https://sites.google.com/site/joseazar/). [<span style="color: #808080">CRESSE & CPI Best Paper Award 2022</span>](https://www.cresse.info/cresse-cpi-awards/). Revise & Resumit: [<span style="color: #808080">*Review of Economic Studies*</span>](https://www.restud.com/). 
 
 ["Market Dominance and Barriers to Competition in Financial Trading Venues"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1287443).
 
-["The Pricing of Bank Bonds, Sovereign Credit Risk and ECB's Asset Purchase Programmes"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691310) with  [<span style="color: #808080">Ricardo Branco</span>](https://www.linkedin.com/in/ricardo-branco-14819394) and [<span style="color: #808080">João Pinto</span>](https://www.catolicabs.porto.ucp.pt/en/who-is/joao-filipe-monteiro-pinto/1750).
+["The Pricing of Bank Bonds, Sovereign Credit Risk and ECB's Asset Purchase Programmes"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691310) with  [<span style="color: #808080">Ricardo Branco</span>](https://www.linkedin.com/in/ricardo-branco-14819394) and [<span style="color: #808080">João Pinto</span>](https://catolicabs.porto.ucp.pt/person/joao-filipe-monteiro-pinto).
 
 # Refereeing Services<br/>
 [<span style="color: #808080">Annals of Public and Cooperative Economics</span>](https://onlinelibrary.wiley.com/journal/14678292), [<span style="color: #808080">Economics Letters</span>](https://www.sciencedirect.com/journal/economics-letters), [<span style="color: #808080">European Economic Review</span>](https://www.journals.elsevier.com/european-economic-review), [<span style="color: #808080">Information Economics and Policy</span>](https://www.journals.elsevier.com/information-economics-and-policy/), [<span style="color: #808080">International Journal of Industrial Organization</span>](https://www.journals.elsevier.com/international-journal-of-industrial-organization), [<span style="color: #808080">Journal of Economics & Management Strategy</span>](https://onlinelibrary.wiley.com/journal/15309134), [<span style="color: #808080">Manchester School</span>](https://onlinelibrary.wiley.com/journal/14679957), [<span style="color: #808080">Mathematical Social Sciences</span>](https://www.sciencedirect.com/journal/mathematical-social-sciences), [<span style="color: #808080">Review of Economic Design</span>](https://www.springer.com/journal/10058), [<span style="color: #808080">Review of Industrial Organization</span>](https://www.springer.com/journal/11151), and [<span style="color: #808080">Review of Network Economics</span>](https://www.degruyter.com/rne).
