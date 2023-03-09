@@ -16,7 +16,7 @@ Applied Microeconomics<br/>
 Applied Econometrics<br/>
 
 # Publications<br/>
-["Modelling the Objective Function of Managers in the Presence of Overlapping Shareholding"](https://doi.org/10.1016/j.ijindorg.2022.102905) with [<span style="color: #808080">Duarte Brito</span>](https://www.dcsa.fct.unl.pt/pessoas/professor-associado-com-agregacao/duarte-brito), [<span style="color: #808080">Einer Elhauge</span>](https://hls.harvard.edu/faculty/directory/10234/Elhauge) and [<span style="color: #808080">Helder Vasconcelos</span>](https://www.fep.up.pt/docentes/hvasconcelos/), *International Journal of Industrial Organization*, Forthcoming.  
+["Modelling the Objective Function of Managers in the Presence of Overlapping Shareholding"](https://doi.org/10.1016/j.ijindorg.2022.102905) with [<span style="color: #808080">Duarte Brito</span>](https://www.dcsa.fct.unl.pt/pessoas/professor-associado-com-agregacao/duarte-brito), [<span style="color: #808080">Einer Elhauge</span>](https://hls.harvard.edu/faculty/directory/10234/Elhauge) and [<span style="color: #808080">Helder Vasconcelos</span>](https://www.fep.up.pt/docentes/hvasconcelos/), *International Journal of Industrial Organization*, 2023, 87, 102905.  
 
 ["Overlapping Ownership, Endogenous Quality, and Welfare"](https://doi.org/10.1016/j.econlet.2020.109074) with [<span style="color: #808080">Duarte Brito</span>](https://www.dcsa.fct.unl.pt/pessoas/professor-associado-com-agregacao/duarte-brito) and [<span style="color: #808080">Helder Vasconcelos</span>](https://www.fep.up.pt/docentes/hvasconcelos/), *Economics Letters*, 2020, 190, 109074.
 
