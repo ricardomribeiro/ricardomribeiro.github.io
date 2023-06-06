@@ -35,7 +35,7 @@ Applied Econometrics<br/>
 
 ["Consumer Demand for Variety: Intertemporal Effects of Consumption, Product Switching and Pricing Policies"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1690144).
 
-["Common-Ownership vs. Cross-Ownership: Evidence from the Automobile Industry"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4313096) with [<span style="color: #808080">Cristian Huse</span>](https://cristianhuse.webs.com/) and [<span style="color: #808080">Frank Verboven</span>](https://sites.google.com/site/frankverbo/research). Revise & Resumit: [<span style="color: #808080">*The Journal of Industrial Economics*</span>]([https://www.restud.com/](https://onlinelibrary.wiley.com/journal/14676451)). 
+["Common-Ownership vs. Cross-Ownership: Evidence from the Automobile Industry"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4313096) with [<span style="color: #808080">Cristian Huse</span>](https://cristianhuse.webs.com/) and [<span style="color: #808080">Frank Verboven</span>](https://sites.google.com/site/frankverbo/research). Revise & Resumit: [<span style="color: #808080">*The Journal of Industrial Economics*</span>](https://onlinelibrary.wiley.com/journal/14676451). 
 
 ["Endogenous Product Design and Quality When Consumers Have Heterogeneous Limited Attention"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2860456) with [<span style="color: #808080">Mariana Cunha</span>](https://catolicabs.porto.ucp.pt/person/mariana-alves-da-cunha) and [<span style="color: #808080">António Osório</span>](http://gandalf.fee.urv.cat/professors/AntonioOsorio/index.html).
 
