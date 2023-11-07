@@ -43,6 +43,8 @@ Applied Econometrics<br/>
 
 ["Market Dominance and Barriers to Competition in Financial Trading Venues"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1287443).
 
+["Overlapping Ownership, Product Differentiation and Tacit Collusion"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4626233) with  [<span style="color: #808080">Duarte Brito</span>](https://www.dcsa.fct.unl.pt/pessoas/professor-associado-com-agregacao/duarte-brito) and [<span style="color: #808080">Helder Vasconcelos</span>](https://www.fep.up.pt/docentes/hvasconcelos/).
+
 ["The Pricing of Bank Bonds, Sovereign Credit Risk and ECB's Asset Purchase Programmes"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691310) with  [<span style="color: #808080">Ricardo Branco</span>](https://www.linkedin.com/in/ricardo-branco-14819394) and [<span style="color: #808080">João Pinto</span>](https://catolicabs.porto.ucp.pt/person/joao-filipe-monteiro-pinto).
 
 # Refereeing Services<br/>
