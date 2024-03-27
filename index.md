@@ -16,6 +16,8 @@ Applied Microeconomics<br/>
 Applied Econometrics<br/>
 
 # Publications<br/>
+["Common-Ownership vs. Cross-Ownership: Evidence from the Automobile Industry"](https://doi.org/10.1111/joie.12390) with [<span style="color: #808080">Cristian Huse</span>](https://cristianhuse.github.io/) and [<span style="color: #808080">Frank Verboven</span>](https://sites.google.com/site/frankverbo/research). *The Journal of Industrial Economics*, Forthcoming.
+
 ["Modelling the Objective Function of Managers in the Presence of Overlapping Shareholding"](https://doi.org/10.1016/j.ijindorg.2022.102905) with [<span style="color: #808080">Duarte Brito</span>](https://www.dcsa.fct.unl.pt/pessoas/professor-associado-com-agregacao/duarte-brito), [<span style="color: #808080">Einer Elhauge</span>](https://hls.harvard.edu/faculty/directory/10234/Elhauge) and [<span style="color: #808080">Helder Vasconcelos</span>](https://www.fep.up.pt/docentes/hvasconcelos/), *International Journal of Industrial Organization*, 2023, 87, 102905.  
 
 ["Overlapping Ownership, Endogenous Quality, and Welfare"](https://doi.org/10.1016/j.econlet.2020.109074) with [<span style="color: #808080">Duarte Brito</span>](https://www.dcsa.fct.unl.pt/pessoas/professor-associado-com-agregacao/duarte-brito) and [<span style="color: #808080">Helder Vasconcelos</span>](https://www.fep.up.pt/docentes/hvasconcelos/), *Economics Letters*, 2020, 190, 109074.
@@ -34,8 +36,6 @@ Applied Econometrics<br/>
 ["A Simple Globally Consistent Continuous Demand Model for Market Level Data"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1690163) with [<span style="color: #808080">Peter Davis</span>](https://www.brattle.com/experts/peter-davis/).
 
 ["Consumer Demand for Variety: Intertemporal Effects of Consumption, Product Switching and Pricing Policies"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1690144).
-
-["Common-Ownership vs. Cross-Ownership: Evidence from the Automobile Industry"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4313096) with [<span style="color: #808080">Cristian Huse</span>](https://cristianhuse.github.io/) and [<span style="color: #808080">Frank Verboven</span>](https://sites.google.com/site/frankverbo/research). Revise & Resumit: [<span style="color: #808080">*The Journal of Industrial Economics*</span>](https://onlinelibrary.wiley.com/journal/14676451). 
 
 ["Endogenous Product Design and Quality When Consumers Have Heterogeneous Limited Attention"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2860456) with [<span style="color: #808080">Mariana Cunha</span>](https://catolicabs.porto.ucp.pt/person/mariana-alves-da-cunha) and [<span style="color: #808080">António Osório</span>](http://gandalf.fee.urv.cat/professors/AntonioOsorio/index.html).
 
