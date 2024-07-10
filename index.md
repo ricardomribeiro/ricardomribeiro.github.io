@@ -1,4 +1,4 @@
-Assistant Professor<br/>
+Associate Professor<br/>
 [Católica Porto Business School](https://catolicabs.porto.ucp.pt/)<br/>
 Rua de Diogo Botelho, 1327<br/>
 4169-005 Porto<br/>
