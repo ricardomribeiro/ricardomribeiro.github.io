@@ -16,7 +16,7 @@ Applied Microeconomics<br/>
 Applied Econometrics<br/>
 
 # Publications<br/>
-["Common-Ownership vs. Cross-Ownership: Evidence from the Automobile Industry"](https://doi.org/10.1111/joie.12390) with [<span style="color: #808080">Cristian Huse</span>](https://cristianhuse.github.io/) and [<span style="color: #808080">Frank Verboven</span>](https://sites.google.com/site/frankverbo/research). *The Journal of Industrial Economics*, Forthcoming. [<span style="color: #808080">[Online Appendix]</span>](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjoie.12390&file=joie12390-sup-0001-suppinfo.pdf)
+["Common-Ownership vs. Cross-Ownership: Evidence from the Automobile Industry"](https://doi.org/10.1111/joie.12390) with [<span style="color: #808080">Cristian Huse</span>](https://cristianhuse.github.io/) and [<span style="color: #808080">Frank Verboven</span>](https://sites.google.com/site/frankverbo). *The Journal of Industrial Economics*, Forthcoming. [<span style="color: #808080">[Online Appendix]</span>](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjoie.12390&file=joie12390-sup-0001-suppinfo.pdf)
 
 ["Modelling the Objective Function of Managers in the Presence of Overlapping Shareholding"](https://doi.org/10.1016/j.ijindorg.2022.102905) with [<span style="color: #808080">Duarte Brito</span>](https://www.dcsa.fct.unl.pt/pessoas/professor-associado-com-agregacao/duarte-brito), [<span style="color: #808080">Einer Elhauge</span>](https://hls.harvard.edu/faculty/directory/10234/Elhauge) and [<span style="color: #808080">Helder Vasconcelos</span>](https://www.fep.up.pt/docentes/hvasconcelos/), *International Journal of Industrial Organization*, 2023, 87, 102905.  
 
